@@ -1,0 +1,14 @@
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\bin\Debug\ASYNCapp1.exe.config
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\bin\Debug\ASYNCapp1.exe
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\bin\Debug\ASYNCapp1.pdb
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.csprojAssemblyReference.cache
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\MainWindow.g.cs
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\App.g.cs
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1_MarkupCompile.cache
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1_MarkupCompile.lref
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\MainWindow.baml
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.g.resources
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.Properties.Resources.resources
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.csproj.GenerateResource.cache
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.exe
+C:\Users\games\Desktop\C#\Holiday2020\ASYNCapp1\obj\Debug\ASYNCapp1.pdb
